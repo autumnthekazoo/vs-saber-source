@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SABER FINAL FLA.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SaberDown0000" x="100" y="100" width="512" height="749" frameX="0" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberDown0001" x="100" y="100" width="512" height="749" frameX="0" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberDown0002" x="647" y="100" width="511" height="750" frameX="-1" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberDown0003" x="647" y="100" width="511" height="750" frameX="-1" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberDown0004" x="1193" y="100" width="507" height="749" frameX="-5" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberDown0005" x="1735" y="100" width="507" height="749" frameX="-5" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberDown0006" x="2277" y="100" width="507" height="749" frameX="-5" frameY="0" frameWidth="512" frameHeight="750"/>
+	<SubTexture name="SaberIdle0000" x="2819" y="100" width="587" height="911" frameX="-3" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0001" x="2819" y="100" width="587" height="911" frameX="-3" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0002" x="3441" y="100" width="581" height="914" frameX="-6" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0003" x="3441" y="100" width="581" height="914" frameX="-6" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0004" x="4057" y="100" width="590" height="917" frameX="-8" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0005" x="4057" y="100" width="590" height="917" frameX="-8" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0006" x="4682" y="100" width="622" height="921" frameX="-6" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0007" x="5339" y="100" width="635" height="922" frameX="-2" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0008" x="6009" y="100" width="635" height="922" frameX="-2" frameY="0" frameWidth="639" frameHeight="922"/>
+	<SubTexture name="SaberIdle0009" x="6679" y="100" width="639" height="922"/>
+	<SubTexture name="SaberIdle0010" x="6679" y="100" width="639" height="922"/>
+	<SubTexture name="SaberIdle0011" x="6679" y="100" width="639" height="922"/>
+	<SubTexture name="SaberIdle0012" x="6679" y="100" width="639" height="922"/>
+	<SubTexture name="SaberIdle0013" x="6679" y="100" width="639" height="922"/>
+	<SubTexture name="SaberLeft0000" x="100" y="1057" width="779" height="923" frameX="0" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0001" x="100" y="1057" width="779" height="923" frameX="0" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0002" x="914" y="1057" width="778" height="929" frameX="0" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0003" x="914" y="1057" width="778" height="929" frameX="0" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0004" x="1727" y="1057" width="771" height="949" frameX="-7" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0005" x="2533" y="1057" width="770" height="954" frameX="-8" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0006" x="3338" y="1057" width="770" height="955" frameX="-8" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberLeft0007" x="4143" y="1057" width="770" height="955" frameX="-8" frameY="0" frameWidth="779" frameHeight="978"/>
+	<SubTexture name="SaberRight0000" x="4948" y="1057" width="877" height="863" frameX="-2" frameY="-1" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0001" x="4948" y="1057" width="877" height="863" frameX="-2" frameY="-1" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0002" x="5860" y="1057" width="878" height="863" frameX="0" frameY="-1" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0003" x="5860" y="1057" width="878" height="863" frameX="0" frameY="-1" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0004" x="6773" y="1057" width="859" height="864" frameX="-18" frameY="0" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0005" x="100" y="2047" width="856" height="864" frameX="-21" frameY="0" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0006" x="991" y="2047" width="856" height="864" frameX="-21" frameY="0" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberRight0007" x="991" y="2047" width="856" height="864" frameX="-21" frameY="0" frameWidth="879" frameHeight="864"/>
+	<SubTexture name="SaberUp0000" x="1882" y="2047" width="500" height="942" frameX="0" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0001" x="1882" y="2047" width="500" height="942" frameX="0" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0002" x="2417" y="2047" width="493" height="944" frameX="0" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0003" x="2417" y="2047" width="493" height="944" frameX="0" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0004" x="2945" y="2047" width="503" height="950" frameX="0" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0005" x="3483" y="2047" width="504" height="951" frameX="-1" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0006" x="4022" y="2047" width="504" height="951" frameX="-1" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0007" x="4561" y="2047" width="510" height="952" frameX="-1" frameY="0" frameWidth="511" frameHeight="952"/>
+	<SubTexture name="SaberUp0008" x="4561" y="2047" width="510" height="952" frameX="-1" frameY="0" frameWidth="511" frameHeight="952"/>
+</TextureAtlas>
